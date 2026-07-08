@@ -1,9 +1,6 @@
 # TweakScale_HiSci_Penalty
 KSP mod that increases the cost of high-tech parts when they are downscaled via TweakScale to balance miniaturization.
 
-
-A gameplay balancing mod for **Kerbal Space Program** that introduces a financial penalty for downsizing high-tech parts via TweakScale.
-
 ## 🚀 Overview
 In stock KSP + TweakScale, shrinking advanced parts (like ion engines, RTGs, or scientific instruments) often makes them overpowered without any cost trade-off. 
 
