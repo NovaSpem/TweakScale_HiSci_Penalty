@@ -15,12 +15,12 @@ This mod fixes the balance. Now, miniaturization of high-tech components costs *
 * **ModuleManager Compatible:** Lightweight and safe for your existing save games.
 
 ## 📦 Installation
-1. Download the latest release from the [Releases](https://github.com) page.
+1. Download the latest release from the [Releases](https://github.com/NovaSpem/TweakScale_HiSci_Penalty/releases) page.
 2. Extract the `GameData` folder into your KSP root directory.
 
 ### Dependencies
-* [ModuleManager](https://spacedock.info) (Required)
-* [TweakScale](https://spacedock.info) (Required)
+* ModuleManager
+* TweakScale
 
 ## 📄 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
