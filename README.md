@@ -2,7 +2,7 @@
 KSP mod that increases the cost of high-tech parts when they are downscaled via TweakScale to balance miniaturization.
 
 ## 🚀 Overview
-In stock KSP + TweakScale, shrinking advanced parts (like ion engines, RTGs, or scientific instruments) often makes them overpowered without any cost trade-off. 
+In stock KSP + TweakScale, shrinking advanced parts (like ion engines, RTGs, or scientific instruments) often makes them too useful without any cost trade-off. 
 
 This mod fixes the balance. Now, miniaturization of high-tech components costs **more** funds, simulating complex micro-engineering and advanced R&D.
 
